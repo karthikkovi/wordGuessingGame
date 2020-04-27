@@ -1,0 +1,27 @@
+{
+  "name": "wordguessinggame",
+  "version": "1.0.0",
+  "description": "A word guessing game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^25.4.0",
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikkovi/wordGuessingGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikkovi/wordGuessingGame/issues"
+  },
+  "homepage": "https://github.com/karthikkovi/wordGuessingGame#readme"
+}
